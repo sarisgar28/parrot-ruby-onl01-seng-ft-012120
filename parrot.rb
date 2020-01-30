@@ -1,5 +1,4 @@
-def parrot "squawk!"
-puts phrase= ("parrot")
-return "parrot"
-end 
- end 
+def parrot "Pretty bird!"
+  puts.parrot "squawk!"
+
+end
