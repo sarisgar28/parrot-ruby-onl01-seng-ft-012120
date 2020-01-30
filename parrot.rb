@@ -1,4 +1,4 @@
-def name ("squawk!")
-  name = ""
-puts "the Pretty bird is the #{name}" 
+def name ("")
+  name =
+puts 
 end
