@@ -1,4 +1,3 @@
-def name ("")
-  name =
+phrase = parrot 
 puts 
 end
