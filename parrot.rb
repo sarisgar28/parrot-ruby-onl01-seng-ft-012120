@@ -1,4 +1,4 @@
-puts "Pretty bird!"
+def phrase ("Pretty bird!")
   phrase = parrot 
-
+puts ""
 end
