@@ -1,4 +1,4 @@
-def parrot "Pretty bird!"
-  puts.parrot "squawk!"
+puts "Pretty bird!"
+  phrase = parrot 
 
 end
