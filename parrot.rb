@@ -1,4 +1,4 @@
-def phrase ("Pretty bird!")
-  phrase = parrot 
-puts ""
+def phrase (name)
+  name = "parrot" 
+puts "the Pretty bird is the #{name} named squawk!" 
 end
